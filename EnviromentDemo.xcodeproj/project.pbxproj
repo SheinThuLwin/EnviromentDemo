@@ -16,6 +16,7 @@
 		97137D40282C3B1E00CC5120 /* EnviromentDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97137D3F282C3B1E00CC5120 /* EnviromentDemoTests.swift */; };
 		97137D4A282C3B1E00CC5120 /* EnviromentDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97137D49282C3B1E00CC5120 /* EnviromentDemoUITests.swift */; };
 		97137D4C282C3B1E00CC5120 /* EnviromentDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97137D4B282C3B1E00CC5120 /* EnviromentDemoUITestsLaunchTests.swift */; };
+		97137D6D282CE42900CC5120 /* BuildConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97137D6C282CE42900CC5120 /* BuildConfiguration.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		97137D45282C3B1E00CC5120 /* EnviromentDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EnviromentDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		97137D49282C3B1E00CC5120 /* EnviromentDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnviromentDemoUITests.swift; sourceTree = "<group>"; };
 		97137D4B282C3B1E00CC5120 /* EnviromentDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnviromentDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		97137D6C282CE42900CC5120 /* BuildConfiguration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildConfiguration.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				97137D28282C3B1C00CC5120 /* AppDelegate.swift */,
 				97137D2A282C3B1C00CC5120 /* SceneDelegate.swift */,
 				97137D2C282C3B1C00CC5120 /* ViewController.swift */,
+				97137D6C282CE42900CC5120 /* BuildConfiguration.swift */,
 				97137D2E282C3B1C00CC5120 /* Main.storyboard */,
 				97137D31282C3B1E00CC5120 /* Assets.xcassets */,
 				97137D33282C3B1E00CC5120 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				97137D2D282C3B1C00CC5120 /* ViewController.swift in Sources */,
 				97137D29282C3B1C00CC5120 /* AppDelegate.swift in Sources */,
 				97137D2B282C3B1C00CC5120 /* SceneDelegate.swift in Sources */,
+				97137D6D282CE42900CC5120 /* BuildConfiguration.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
