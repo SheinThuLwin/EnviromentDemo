@@ -14,8 +14,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        
-        lblMessage.text = "Enviroment"
+        let currentConfiguration = Bundle.main.object(forInfoDictionaryKey: "Configuration") as! String
+        lblMessage.text = currentConfiguration
     }
 
 
