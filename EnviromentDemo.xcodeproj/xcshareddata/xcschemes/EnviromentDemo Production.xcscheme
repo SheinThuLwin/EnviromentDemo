@@ -15,15 +15,43 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "97137D24282C3B1C00CC5120"
-               BuildableName = "EnviromentDemo.app"
+               BuildableName = "Env Development.app"
                BlueprintName = "EnviromentDemo"
+               ReferencedContainer = "container:EnviromentDemo.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "97137D3A282C3B1E00CC5120"
+               BuildableName = "EnviromentDemoTests.xctest"
+               BlueprintName = "EnviromentDemoTests"
+               ReferencedContainer = "container:EnviromentDemo.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "97137D44282C3B1E00CC5120"
+               BuildableName = "EnviromentDemoUITests.xctest"
+               BlueprintName = "EnviromentDemoUITests"
                ReferencedContainer = "container:EnviromentDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
-      buildConfiguration = "Debug Development"
+      buildConfiguration = "Debug Production"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
@@ -31,7 +59,7 @@
       </Testables>
    </TestAction>
    <LaunchAction
-      buildConfiguration = "Debug Development"
+      buildConfiguration = "Debug Production"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
@@ -45,14 +73,14 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "97137D24282C3B1C00CC5120"
-            BuildableName = "EnviromentDemo.app"
+            BuildableName = "Env Development.app"
             BlueprintName = "EnviromentDemo"
             ReferencedContainer = "container:EnviromentDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
    <ProfileAction
-      buildConfiguration = "Release Development"
+      buildConfiguration = "Release Production"
       shouldUseLaunchSchemeArgsEnv = "YES"
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
@@ -62,17 +90,17 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "97137D24282C3B1C00CC5120"
-            BuildableName = "EnviromentDemo.app"
+            BuildableName = "Env Development.app"
             BlueprintName = "EnviromentDemo"
             ReferencedContainer = "container:EnviromentDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
-      buildConfiguration = "Debug Development">
+      buildConfiguration = "Debug Production">
    </AnalyzeAction>
    <ArchiveAction
-      buildConfiguration = "Release Development"
+      buildConfiguration = "Release Production"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
