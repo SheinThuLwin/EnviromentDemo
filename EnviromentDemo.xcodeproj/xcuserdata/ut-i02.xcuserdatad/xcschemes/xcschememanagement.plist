@@ -4,6 +4,21 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>AnotherEnv Development.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>AnotherEnv Production.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>AnotherEnv Staging.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>EnviromentDemo Development.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -33,6 +48,21 @@
 			<true/>
 		</dict>
 		<key>97137D44282C3B1E00CC5120</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>97137D71282CED4200CC5120</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>97137D86282CED4700CC5120</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>97137D90282CED4700CC5120</key>
 		<dict>
 			<key>primary</key>
 			<true/>
